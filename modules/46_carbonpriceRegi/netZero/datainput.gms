@@ -55,7 +55,7 @@ $else.prisma
   EUR . 2050 . GHG_target  1
   JPN . 2050 . GHG_target  1
   LAM . 2050 . GHG_target  0.83
-  USA . 2050 . GHG_target  1 !! by default deactivated with LTSexcludeRegi
+  USA . 2050 . GHG_target  0.8 !! by default deactivated with LTSexcludeRegi
 
   MEA . 2055 . GHG_target  0.41
   NEU . 2055 . GHG_target  0.8
